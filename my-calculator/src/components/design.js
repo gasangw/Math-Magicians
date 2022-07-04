@@ -1,6 +1,6 @@
 import React from 'react';
 import './Layout.css';
-
+/* eslint-disable */
 const layout = () => {
   const handleClick = () => {};
   return (
