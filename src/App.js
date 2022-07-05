@@ -1,10 +1,15 @@
 import React from 'react';
 import Structure from './components/Calculator';
-function App() {
-  return (
-    <div className="frame">
-      <Structure/>
+class App extends React.Component {
+  constructor(props){
+    super(props)
+  }
+  render(){
+    return(
+      <div className="App">
+      <Structure />
     </div>
-  );
+    )
+  }
 }
 export default App;
