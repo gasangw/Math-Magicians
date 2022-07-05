@@ -14,8 +14,9 @@
 
 ## Getting Started
 
-- npx create-react-app my-app
-- cd my-app
+- git clone https://github.com/gasangw/Math-Magicians.git
+- cd Math-Magicians
+- npm install
 - npm start
 
 ## Author

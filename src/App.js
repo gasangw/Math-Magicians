@@ -1,9 +1,9 @@
 import React from 'react';
-import Layout from './components/design';
+import Structure from './components/Calculator';
 function App() {
   return (
-    <div className="App">
-      <Layout />
+    <div className="frame">
+      <Structure/>
     </div>
   );
 }

@@ -1,20 +1,17 @@
 .calculator {
   border: 1px solid #ccc;
-  box-shadow: 10px 10px 30px 0 rgb(0, 0, 0, 0.75);
-  border-radius: 20px;
   position: absolute;
   top: 10%;
   left: 30%;
   width: 400px;
-  height: 520px;
+  height: 500px;
+  background-color: gray;
 }
 
 .keys {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   margin: auto;
-  border: none;
-  outline: none;
 }
 
 input {
@@ -22,6 +19,8 @@ input {
   padding: 40px;
   background-color: rgb(199, 204, 202);
   font-size: 1rem;
+  outline: none;
+  border: 1px solid grey;
   font-weight: 700;
   text-shadow: 0 1px rgb(255, 255, 255, 4);
 }
@@ -32,7 +31,7 @@ input:hover {
 }
 
 #red {
-  background-color: #eebb24;
+  background-color: orange;
 }
 
 #blue {
@@ -46,6 +45,7 @@ input:hover {
   width: 79%;
   height: 5px;
   border: none;
-  background-color: #25a8e0;
+  color: #fff;
+  background-color: grey;
   text-align: right;
 }
