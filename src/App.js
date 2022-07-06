@@ -1,10 +1,15 @@
 import React from 'react';
-import Layout from './components/design';
-function App() {
-  return (
-    <div className="App">
-      <Layout />
+import Structure from './components/Calculator';
+class App extends React.Component {
+  constructor(props){
+    super(props)
+  }
+  render(){
+    return(
+      <div className="App">
+      <Structure />
     </div>
-  );
+    )
+  }
 }
 export default App;

@@ -14,8 +14,9 @@
 
 ## Getting Started
 
-- npx create-react-app my-app
-- cd my-app
+- git clone https://github.com/gasangw/Math-Magicians.git
+- cd Math-Magicians
+- npm install
 - npm start
 
 ## Author
@@ -44,4 +45,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is licensed.
+This project is [MIT](https://github.com/microverseinc/readme-template/blob/master/MIT.md)licensed.
