@@ -71,7 +71,7 @@ class Structure extends React.Component {
           />
           <input
             type="button"
-            value="*"
+            value="x"
             className="button-operator"
             id="red"
             onClick={this.handleClick}
