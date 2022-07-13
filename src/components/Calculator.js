@@ -11,7 +11,9 @@ const Structure = () => {
   }
   return (
     <div className="frame">
+
       <h3 className="math">Let's do some Math!</h3>
+      <h3>Let's do some Math!</h3>
       <div className="calculator">
         <br />
         <div> 
