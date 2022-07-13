@@ -1,7 +1,6 @@
 import React, {useState} from "react";
 import "./Layout.css"
 import calculate from '../logic/calculate';
-
 const Structure = () => {
   const [state, setState] = useState(0);
   
@@ -12,6 +11,7 @@ const Structure = () => {
   }
   return (
     <div className="frame">
+      <h3>Let's do some Math!</h3>
       <div className="calculator">
         <br />
         <div> 
