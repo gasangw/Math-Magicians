@@ -5,11 +5,6 @@ const Navbar = () => {
     <div>
         <div className="navContainer">
             <h1 className='heading'>Math Magicians</h1>
-const Navbar = () => {
-   return (
-    <div>
-        <div className="container">
-            <h1>Math Magicians</h1>
             <ul className="links">
                 <li><Link to="/">Home</Link></li>
                 <li><Link to="/structure">Calculator</Link></li>

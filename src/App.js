@@ -16,15 +16,11 @@ class App extends React.Component {
       <div className="App">
         <Navbar />
 
-        <Routes>
+          <Routes>
           <Route path="/" element={<Home/>} />
           <Route path="/structure" element={<Structure/>}/>
           <Route path="/quote" element={<Quote/>}/>
           </Routes>
-
-        <Home/>
-        <Quote/>
-
     </div>
     )
   }
