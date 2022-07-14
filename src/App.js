@@ -4,7 +4,7 @@ import Navbar from './components/navbar';
 import Quote from './components/quote';
 import Home from './components/Home';
 
-import { Routes, Route } from 'react-router-dom';
+import { Router, Route } from 'react-router-dom';
 
 
 class App extends React.Component {
@@ -15,12 +15,11 @@ class App extends React.Component {
     return(
       <div className="App">
         <Navbar />
-
-          <Routes>
+          <Router>
           <Route path="/" element={<Home/>} />
-          <Route path="/structure" element={<Structure/>}/>
-          <Route path="/quote" element={<Quote/>}/>
-          </Routes>
+          <Route path="/structure" element={<Structure/>} />
+          <Route path="/quote" element={<Quote/>} />
+          </Router>
     </div>
     )
   }
