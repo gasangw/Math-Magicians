@@ -27,6 +27,13 @@
 - Twitter: [@twitterhandle](https://twitter.com/ThomasGasangwa)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/gasangwa-thomas-84197222a/)
 
+👤 **Cecilia Mukima**
+
+- GitHub: [@c3c1l1a](https://github.com/c3c1l1a/)
+- Twitter: [@cMukima](https://twitter.com/CMukima)
+- LinkedIn: [cecilia-wangui-mukima](https://linkedin.com/in/linkedinhandle)
+- Profile [c3cl1ia.github.io](https://c3c1l1a.github.io)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
