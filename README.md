@@ -19,6 +19,10 @@
 - npm install
 - npm start
 
+## Live Demo Links
+- Netlify:[live](https://deploy-preview-7--stellular-cascaron-389da5.netlify.app/)
+- Heroku:[live](https://math-magician-thomas.herokuapp.com/)
+
 ## Author
 
 👤 **Gasangwa Thomas**
